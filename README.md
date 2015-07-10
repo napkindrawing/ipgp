@@ -1,5 +1,6 @@
 # ipgp
-Use the PGP word list to represent IPv4 addresses
+
+Use the [PGP word](https://en.wikipedia.org/wiki/PGP_word_list) list to represent IPv4 addresses
 
 Do your eyes glaze over when quickly trying to compare addresses like `56.39.187.101` and `58.89.137.107`?
 
