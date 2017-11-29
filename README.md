@@ -13,6 +13,8 @@ Would it be easier if they were `classic celebrate shamrock glossary` and `clean
 | 127.0.0.1 | lockup.adroitness.aardvark.adviser |
 | 192.168.1.1 | slowdown.paramount.absurd.adviser |
 | 10.0.0.1 | allow.adroitness.aardvark.adviser |
+| 4.2.2.2 | adrift.aftermath.accrue.aftermath |
 | 8.8.8.8 | aimless.antenna.aimless.antenna |
+| 9.9.9.9 | algol.applicant.algol.applicant |
 | 172.16.0.0 | ribcage.autopsy.aardvark.adroitness |
 | 255.255.255.255 | Zulu.Yucatan.Zulu.Yucatan |
